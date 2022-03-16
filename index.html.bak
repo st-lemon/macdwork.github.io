@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Tom's Diner - MACD Where's Jerry Group</title>
+		<title>Highlights by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -16,10 +16,8 @@
 		<!-- Header -->
 			<section id="header">
 				<header class="major">
-					<h1>Tom's Diner</h1>
-					<iframe width="560" height="315" src="https://www.artsteps.com/embed/6163212ec5e4f05ff8c8b069/560/315" frameborder="0" allowfullscreen></iframe>
-					<!--    <p>A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a></p>     -->
-					
+					<h1>Highlights</h1>
+					<p>A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a></p>
 				</header>
 				<div class="container">
 					<ul class="actions special">
